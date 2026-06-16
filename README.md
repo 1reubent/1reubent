@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my perosnal portfolio <a href="https://1reubent.github.io/portfolio-website/" target="_blank">here</a>!
+Check out my personal portfolio <a href="https://1reubent.github.io/portfolio-website/" target="_blank">here</a>!
 
 <!--
 **1reubent/1reubent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
